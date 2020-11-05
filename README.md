@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GentlemanHu's github stats](https://github-readme-stats.vercel.app/api?username=gentlemanhu&count_private=true)](https://github.com/gentlemanhu/github-readme-stats)
+[![GentlemanHu's github stats](https://github-readme-stats.vercel.app/api?username=gentlemanhu&count_private=true&theme=chartreuse-dark)](https://github.com/gentlemanhu/gentlemanhu)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gentlemanhu&layout=compact&theme=react)](https://github.com/gentlemanhu/gentlemanhu)
 
 [![Page Views Count](https://badges.toozhao.com/badges/01EPBD86J4TB7RY1W3VF36YY4V/green.svg)](https://badges.toozhao.com/badges/01EPBD86J4TB7RY1W3VF36YY4V/green.svg "Get your own page views count badge on badges.toozhao.com")
+
+### Cheers 👏
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gentlemanhu&theme=vue-dark)](https://github.com/gentlemanhu/gentlemanhu)
+
+[Home](https://crushing.xyz)
