@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gentlemanhu&layout=compact&&bg_color=45,70e1f5,ffd194)](https://github.com/gentlemanhu/gentlemanhu)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gentlemanhu&&bg_color=45,77A1D3,79CBCA,E684AE)](https://github.com/gentlemanhu/gentlemanhu)
+[![GentlemanHu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gentlemanhu&&bg_color=45,77A1D3,79CBCA,E684AE)](https://github.com/gentlemanhu/gentlemanhu)
 
 ### Cheers 👏
 
