@@ -1,27 +1,21 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋 I'm Gentleman.Hu</h3>
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=gentlemanhu.gentlemanhu" alt="visitor badge"/></p>
 
-<!--
-**GentlemanHu/GentlemanHu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a target="_blank" href="https://crushing.xyz/">Blog</a> •
+  <a target="_blank" href="https://status.justfeeling.me/">Site Status</a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![GentlemanHu's github stats](https://github-readme-stats.vercel.app/api?username=gentlemanhu&count_private=true&bg_color=45,4568DC,B06AB3&title_color=c0c0aa&text_color=fffefe&icon_color=fffefe&show_icons=true)](https://github.com/gentlemanhu/gentlemanhu)
+<h4 align="center">GitHub Status</h4>
+<p align="center" href="https://github.com/gentlemanhu"><img src="https://github-readme-stats.vercel.app/api?username=gentlemanhu&count_private=true&bg_color=45,4568DC,B06AB3&title_color=c0c0aa&text_color=fffefe&icon_color=fffefe&show_icons=true" alt="stats" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gentlemanhu&layout=compact&&bg_color=45,70e1f5,ffd194)](https://github.com/gentlemanhu/gentlemanhu)
+<h4 align="center">Top Languages</h4>
+<p align="center" href="https://github.com/gentlemanhu"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentlemanhu&layout=compact&&bg_color=45,70e1f5,ffd194" alt="stats" /></p>
 
-[![GentlemanHu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gentlemanhu&&bg_color=45,77A1D3,79CBCA,E684AE)](https://github.com/gentlemanhu/gentlemanhu)
+<h4 align="center">WakaTime Status</h4>
+<p align="center" href="https://github.com/gentlemanhu"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=gentlemanhu&&bg_color=45,77A1D3,79CBCA,E684AE" alt="stats" /></p>
 
 ### Cheers 👏
-
-[![Page Views Count](https://badges.toozhao.com/badges/01EPBD86J4TB7RY1W3VF36YY4V/green.svg)](https://badges.toozhao.com/badges/01EPBD86J4TB7RY1W3VF36YY4V/green.svg "Get your own page views count badge on badges.toozhao.com")
 
 [Home](https://crushing.xyz)
