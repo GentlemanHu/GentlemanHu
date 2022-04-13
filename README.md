@@ -13,9 +13,9 @@
 <h4 align="center">WakaTime Status</h4>
 <p align="center" href="https://github.com/gentlemanhu"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=gentlemanhu&&bg_color=45,77A1D3,79CBCA,E684AE" alt="stats" /></p>
 
-<h4 align="center">WakaApi Status</h4>
+<!-- <h4 align="center">WakaApi Status</h4>
 <p align="center" href="https://github.com/gentlemanhu"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=nice&api_domain=waka.crushing.xyz&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="stats"/></p>
 
 <h4 align="center">Last 30 Days Coding Time</h4>
-<p align="center"><img src="https://img.shields.io/endpoint?url=https://waka.crushing.xyz/api/compat/shields/v1/nice/interval:30_days&style=flat-square&color=blue&label=last 30d" alt="Last 30 Days Coding Time"/></p>
+<p align="center"><img src="https://img.shields.io/endpoint?url=https://waka.crushing.xyz/api/compat/shields/v1/nice/interval:30_days&style=flat-square&color=blue&label=last 30d" alt="Last 30 Days Coding Time"/></p> -->
    
