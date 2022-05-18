@@ -6,7 +6,7 @@
   <a target="_blank" href="https://docs.crushing.xyz/">Notes</a>
 </p>
 
-<p align="center" href="https://github.com/gentlemanhu"><img src="https://github-widgetbox.vercel.app/api/profile?username=gentlemanhu&data=followers,repositories,stars,commits"/></p>
+<!-- <p align="center" href="https://github.com/gentlemanhu"><img src="https://github-widgetbox.vercel.app/api/profile?username=gentlemanhu&data=followers,repositories,stars,commits"/></p> -->
 
 <h4 align="center">Status</h4>
 <p align="center" href="https://github.com/gentlemanhu"><img src="https://readme-status.crushing.xyz/api?username=gentlemanhu&exclude_repo=gentlemanhu,gentlemanhu.github.io&hide_title=true&count_private=true&bg_color=45,114357,91EAE4&title_color=c0c0aa&text_color=fffefe&icon_color=fffefe&show_icons=true" style="width: 50%" alt="stats" /><img src="https://readme-status.crushing.xyz/api/top-langs/?username=gentlemanhu&hide=html,css&langs_count=8&layout=compact&&bg_color=45,70e1f5,ffd194" style="width: 50%;height: 170px" alt="stats" /></p>
