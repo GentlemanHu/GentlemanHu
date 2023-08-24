@@ -11,9 +11,9 @@
 
 <h4 align="center">Status</h4>
 <p align="center" href="https://github.com/gentlemanhu"><img src="https://readme-status.crushing.xyz/api?username=gentlemanhu&exclude_repo=gentlemanhu,gentlemanhu.github.io&hide_title=true&count_private=true&bg_color=45,114357,91EAE4&title_color=c0c0aa&text_color=fffefe&icon_color=fffefe&show_icons=true" style="width: 50%" alt="stats" /><img src="https://readme-status.crushing.xyz/api/top-langs/?username=gentlemanhu&hide=html,css&langs_count=8&layout=compact&&bg_color=45,70e1f5,ffd194" style="width: 50%;height: 170px" alt="stats" /></p>
-<!-- 
+
 <h4 align="center">WakaTime Status</h4>
-<p align="center" href="https://github.com/gentlemanhu"><img src="https://readme-status.crushing.xyz/api/wakatime?username=gentlemanhu&&bg_color=45,77A1D3,79CBCA,E684AE" alt="stats" /></p> -->
+<p align="center" href="https://github.com/gentlemanhu"><img src="https://readme-status.crushing.xyz/api/wakatime?username=gentlemanhu&bg_color=45,77A1D3,79CBCA,E684AE&range=last_7_days" alt="stats" /></p>
 
 <!-- <h4 align="center">WakaApi Status</h4>
 <p align="center" href="https://github.com/gentlemanhu"><img src="https://readme-status.crushing.xyz/api/wakatime?username=nice&api_domain=waka.crushing.xyz&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact" alt="stats"/></p>
